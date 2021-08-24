@@ -2,7 +2,7 @@ import {Nav, Container, Row, Col} from 'react-bootstrap'
 import './MyFooter.css'
 
 const MyFooter = ({title, person}) => (
-    <Container className="Footer-Container mt-3 p-0">
+    <Container className="Footer-Container mt-5">
         <Row className="p-0">
             <Col sm={2} md={2} lg={2}></Col>
             <Col sm={8} md={8} lg={8}>

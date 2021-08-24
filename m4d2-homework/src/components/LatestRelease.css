@@ -12,3 +12,7 @@ img{
 .wholeCard{
     height: 25rem;
 }
+
+Button{
+    margin-bottom: 10px;
+}
