@@ -1,0 +1,4 @@
+.Welcome-Jumbotron img{
+    object-fit: cover;
+    max-height: 50vh;
+}
