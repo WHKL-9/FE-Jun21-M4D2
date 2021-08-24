@@ -10,6 +10,7 @@ class LatestReleaseFantasy extends Component{
     render() {
         return(
             <Container>
+                <h2>Latest Release - Fantasy</h2>
                 <Row className="justify-content-center">
                     
                         {

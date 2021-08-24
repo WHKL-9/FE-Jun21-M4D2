@@ -1,0 +1,7 @@
+.Footer-Container{
+    position: fixed;
+    bottom:0;
+    background-color:#000000;
+    color:white;
+    min-width: 100vw !important;
+}
