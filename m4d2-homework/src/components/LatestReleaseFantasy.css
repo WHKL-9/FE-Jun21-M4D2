@@ -5,3 +5,7 @@ img{
 #bookTitle{
     text-overflow: ellipsis !important;
 }
+
+.wholeCard{
+    min-height: 70vh;
+}
